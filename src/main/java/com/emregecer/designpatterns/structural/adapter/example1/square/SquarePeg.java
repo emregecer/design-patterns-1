@@ -1,4 +1,4 @@
-package com.emregecer.designpatterns.structural.adapter.example1.example1.square;
+package com.emregecer.designpatterns.structural.adapter.example1.square;
 
 /**
  * SquarePegs are not compatible with RoundHoles (they were implemented by

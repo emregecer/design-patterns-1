@@ -1,9 +1,9 @@
-package com.emregecer.designpatterns.structural.adapter.example1.example1;
+package com.emregecer.designpatterns.structural.adapter.example1;
 
-import com.emregecer.designpatterns.structural.adapter.example1.example1.adapter.SquarePegAdapter;
-import com.emregecer.designpatterns.structural.adapter.example1.example1.round.RoundHole;
-import com.emregecer.designpatterns.structural.adapter.example1.example1.round.RoundPeg;
-import com.emregecer.designpatterns.structural.adapter.example1.example1.square.SquarePeg;
+import com.emregecer.designpatterns.structural.adapter.example1.adapter.SquarePegAdapter;
+import com.emregecer.designpatterns.structural.adapter.example1.round.RoundHole;
+import com.emregecer.designpatterns.structural.adapter.example1.round.RoundPeg;
+import com.emregecer.designpatterns.structural.adapter.example1.square.SquarePeg;
 
 /**
  * Somewhere in client code...

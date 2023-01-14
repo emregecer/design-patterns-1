@@ -1,4 +1,4 @@
-package com.emregecer.designpatterns.structural.adapter.example1.example1.round;
+package com.emregecer.designpatterns.structural.adapter.example1.round;
 
 /**
  * RoundPegs are compatible with RoundHoles.

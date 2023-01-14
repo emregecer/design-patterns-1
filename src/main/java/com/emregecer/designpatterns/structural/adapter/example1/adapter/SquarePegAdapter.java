@@ -1,7 +1,7 @@
-package com.emregecer.designpatterns.structural.adapter.example1.example1.adapter;
+package com.emregecer.designpatterns.structural.adapter.example1.adapter;
 
-import com.emregecer.designpatterns.structural.adapter.example1.example1.round.RoundPeg;
-import com.emregecer.designpatterns.structural.adapter.example1.example1.square.SquarePeg;
+import com.emregecer.designpatterns.structural.adapter.example1.round.RoundPeg;
+import com.emregecer.designpatterns.structural.adapter.example1.square.SquarePeg;
 
 /**
  * Adapter allows fitting square pegs into round holes.
