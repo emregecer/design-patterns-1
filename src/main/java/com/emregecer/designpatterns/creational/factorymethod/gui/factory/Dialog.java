@@ -1,4 +1,6 @@
-package com.emregecer.designpatterns.creational.factorymethod.gui;
+package com.emregecer.designpatterns.creational.factorymethod.gui.factory;
+
+import com.emregecer.designpatterns.creational.factorymethod.gui.buttons.Button;
 
 /**
  * Base Creator

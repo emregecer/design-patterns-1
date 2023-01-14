@@ -1,7 +1,11 @@
 package com.emregecer.designpatterns.creational.factorymethod.gui;
 
+import com.emregecer.designpatterns.creational.factorymethod.gui.factory.Dialog;
+import com.emregecer.designpatterns.creational.factorymethod.gui.factory.HtmlDialog;
+import com.emregecer.designpatterns.creational.factorymethod.gui.factory.WindowsDialog;
+
 /**
- * <a href="https://refactoring.guru/design-patterns/factory-method/java/example">Taken from Refactoring Guru</a>
+ * Taken from <a href="https://refactoring.guru/design-patterns/factory-method/java/example">Refactoring Guru</a>
  * Demo class. Everything comes together here.
  */
 public class Demo {
